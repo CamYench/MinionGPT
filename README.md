@@ -11,7 +11,7 @@ This project is a fork of [Anthropic Computer Use](https://github.com/anthropics
 1. Clone the repository and navigate to it:
 
 ```bash
-git clone https://github.com/your-username/ollama-computer-use-mac
+git clone https://github.com/camyench/MinionGPT
 cd ollama-computer-use-mac
 ```
 
