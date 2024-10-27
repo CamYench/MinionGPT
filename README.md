@@ -1,4 +1,4 @@
-# Ollama Computer Use (for Mac)
+# MinionGPT: Ollama Computer Use (for Mac)
 
 This project is a fork of [Anthropic Computer Use](https://github.com/anthropics/anthropic-quickstarts/blob/main/computer-use-demo/README.md), modified to run on macOS and use a locally run Ollama Nemotron instance instead of the Anthropic API.
 
