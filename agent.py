@@ -2,14 +2,11 @@
 
 import os
 import tempfile
-# Import Phidata dependencies
-from phi.agent import Agent
-from langchain_ollama import OllamaLLM
-from langchain_huggingface import HuggingFaceEmbeddings
 
 # Import langchain dependencies
 from langchain_community.document_loaders import PyPDFLoader
-from langchain.indexes import VectorstoreIndexCreator
+from langchain_ollama import OllamaLLM
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
