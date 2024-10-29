@@ -1,0 +1,7 @@
+phidata
+ollama
+langchain
+streamlit
+langchain-community
+pypdf
+sentence-transformers
